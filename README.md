@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uskunn
+- 👋 Hi, I’m @uskun
 - 👀 I’m interested in cats
 - 🌱 I’m currently learning developing game
 - 💞️ I’m looking to collaborate on making game
